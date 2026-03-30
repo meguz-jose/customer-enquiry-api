@@ -1,0 +1,12 @@
+{
+  "name": "customer-enquiry-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "express": "^4.18.2"
+  }
+}
